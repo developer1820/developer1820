@@ -1,4 +1,4 @@
-'rgb(##**Hello my name is Aarti Kacha.**##)'
+##**Hello my name is Aarti Kacha.**##
 
 I am pursuing my passion for software engineering at HyperionDev. I am learning in-depth Python development skills, such as data structures, object-oriented programming, troubleshooting, and working with various Python libraries. 
 My goal is to start my career as a Python web developer and eventually become a full-stack developer. I have a strong foundation in web development, thanks to building a responsive website using Django and SQL as part of my CFG course. I am highly motivated, determined, creative, adaptable, and have problem-solving, attention to detail, critical thinking, communication, and time management skills. I am always eager to learn new skills and technologies and to contribute to impactful projects that make a difference.
