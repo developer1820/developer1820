@@ -4,4 +4,3 @@ Currently pursuing my passion for software engineering at HyperionDev, I am deep
 
 You can reach me at nehakacha20@gmail.com
 and also https://www.linkedin.com/in/aarti-kacha/
-
